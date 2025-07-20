@@ -1,4 +1,4 @@
-# Northern_Virginia_Housing_Price_Explorer
+# Northern_Virginia_Housing_Explorer
  Analyze trends in Northern Virginia housing prices and develop a simple model to identify the factors that most significantly impact home values.
 
 ### Tools and Skills:
