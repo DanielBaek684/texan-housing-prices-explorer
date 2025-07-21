@@ -1,4 +1,4 @@
-'''python
+```python
 #Average prices of homes based on Texas cities:
 
 import kagglehub
@@ -36,4 +36,4 @@ plt.ylabel("Average Price (US Dollars)")
 plt.xticks(rotation = 0)
 plt.tight_layout()
 plt.show()
-'''
+```
