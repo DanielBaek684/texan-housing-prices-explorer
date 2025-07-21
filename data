@@ -1,9 +1,9 @@
-## Installing the Necessary Packages
+Installing the Necessary Packages
 
   - VS Code: pip install kagglehub pandas matplotlib
   - Google Collab: pip install kagglehub 
   
-### If You Face Permission Issues
+If You Face Permission Issues
   - Head to Kaggle.com
   - Go to Kagle Account Settings
   - Scroll to API and click "Create New API Token" (This will download the kaggle.json file)
