@@ -1,5 +1,4 @@
-```python
-#Average prices of homes based on Texas cities:
+```#Average prices of homes based on Texas cities:
 
 import kagglehub
 import os
