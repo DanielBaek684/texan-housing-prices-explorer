@@ -1,3 +1,6 @@
+# Texas House Prices Explorer: Complete lines of code
+
+## Average prices of homes in based on Texas cities:
 import kagglehub
 import os
 import pandas as pd
@@ -33,3 +36,4 @@ plt.ylabel("Average Price (US Dollars)")
 plt.xticks(rotation = 0)
 plt.tight_layout()
 plt.show()
+
