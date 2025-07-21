@@ -1,6 +1,6 @@
-# Texas House Prices Explorer: Complete lines of code
+Texas House Prices Explorer: Complete lines of code
 
-## Average prices of homes in based on Texas cities:
+- Average prices of homes based on Texas cities:
 import kagglehub
 import os
 import pandas as pd
