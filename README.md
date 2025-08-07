@@ -10,7 +10,7 @@
  - Organize by cities in Texas
  - Scatter plot: Square footage vs. Price
  - Bar Chart: Average price by year built
- - Bar Chart: Average price by certain city
+ - Bar Chart: Average price by a certain city
 
 ### What I Learned:
  - The average housing prices in Texas can vary depending on the city
